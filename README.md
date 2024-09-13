@@ -1,5 +1,8 @@
 # PwC Switzerland Power BI Job Simulation on Forage-Diversity and Inclusion Analysis
 
+<img width="686" alt="2024-09-08 (31)" src="https://github.com/user-attachments/assets/dd570077-b1be-405c-b3f3-dd47fc1d346f">
+
+
 ## About This Project
 
 As part of my 4th and final task for the Virtual Internship on Power BI from PwC, offered by Forage, I have developed a dashboard focused on Diversity & Inclusion. As a Data Analyst, my role was to define relevant KPIs in areas such as hiring, promotion, performance, and turnover,create visualizations to effectively communicate these insights and Write what i think some root causes of their slow progress might be.
