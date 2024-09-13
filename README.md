@@ -33,4 +33,5 @@ The purpose of this analysis is to:
 ## Data Sourcing
 
 The Dataset used for this analysis was given by [Pwc switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
-[Pwc switzerland]
+
+[Dataset](https://github.com/GBM1228/HR-Gender-Equity-Dashboard-using-Power-BI/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
