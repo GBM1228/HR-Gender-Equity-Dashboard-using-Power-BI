@@ -29,3 +29,8 @@ The purpose of this analysis is to:
 1.Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 
 2.Write what you think some root causes of their slow progress might be
+
+## Data Sourcing
+
+The Dataset used for this analysis was given by [Pwc switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
+[Pwc switzerland]
