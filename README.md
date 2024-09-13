@@ -6,11 +6,11 @@ As part of my 4th and final task for the Virtual Internship on Power BI from PwC
 
 ## Table Of Contents
 
-[Problem Statement](#Problem Statement)
-[Data Sourcing](#Data Sourcing)
-[Data Preparation](#Data Preparation)
-[Data Preparation](#Data Preparation)
-[Data Visualization](#Data Visualization)
-[Data Analysis](#Data Analysis)
+[Problem Statement](#ProblemStatement)
+[Data Sourcing](#DataSourcing)
+[Data Preparation](#DataPreparation)
+[Data Preparation](#DataPreparation)
+[Data Visualization](#DataVisualization)
+[Data Analysis](#DataAnalysis)
 [Insights](#Insights)
 [Recommendation](#Recommendation)
