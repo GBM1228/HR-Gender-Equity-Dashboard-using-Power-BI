@@ -21,3 +21,11 @@ As part of my 4th and final task for the Virtual Internship on Power BI from PwC
 [Insights](#Insights)
 
 [Recommendation](#Recommendation)
+
+## Problem Statement
+
+The purpose of this analysis is to:
+
+1.Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+
+2.Write what you think some root causes of their slow progress might be
