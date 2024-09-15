@@ -49,8 +49,8 @@ The tabulation below shows the dataset table with its column names and their des
 
 |Column Name|Description|
 |---|---|
-|Employee ID	|Represents the unique number of the employee in the dataset|
-|Gender|	Describes the gender of the employee|
+|Employee ID	|The unique indentity number of the employee in the dataset|
+|Gender|The gender of the employee|
 |Job Level after FY20 promotions|	Describes the job level of the employee after being promoted in FY20|
 |New hire FY20?|	Describes if the employee is a new hire in FY20|
 |FY20 Performance Rating|	Represents the performance rating of the employee in FY20|
