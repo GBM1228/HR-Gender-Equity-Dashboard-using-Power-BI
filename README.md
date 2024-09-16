@@ -43,6 +43,8 @@ The Dataset used for this analysis was given by [Pwc switzerland](https://www.pw
 ## Data Preparation
 Data transformation was performed using Power Query, followed by loading the refined dataset into Microsoft Power BI Desktop for in-depth analysis and reporting.
 
+The following steps were taking for the data transformation and cleaning:Promoting headers,Changing data types,Replacing text values, Removing unnecessary columns, Renaming Column name for clarity.
+
 The dataset for diversity and inclusion has 32 columns and 500 rows.
 
 The tabulation below shows the dataset table with its column names
