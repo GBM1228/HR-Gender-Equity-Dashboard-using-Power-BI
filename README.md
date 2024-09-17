@@ -6,6 +6,8 @@
 
 As  my 4th and final task for the Virtual Internship on Power BI from PwC, offered by Forage, I have developed a dashboard focused on Diversity & Inclusion. As a Data Analyst, my role was to define relevant KPIs in areas such as hiring, promotion, performance, and turnover,create visualizations to effectively communicate these insights and Write what some root causes of their slow progress might be.
 
+#
+
 ## Table Of Contents
 
 [Problem Statement](#ProblemStatement)
@@ -22,6 +24,8 @@ As  my 4th and final task for the Virtual Internship on Power BI from PwC, offer
 
 [Recommendation](#Recommendation)
 
+#
+
 
 ## Problem Statement
 
@@ -31,11 +35,15 @@ The purpose of this analysis is to:
 
 2.Write what you think some root causes of their slow progress might be
 
+#
+
 ## Data Sourcing
 
 The Dataset used for this analysis was given by [Pwc switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
 
 [Dataset](https://github.com/GBM1228/HR-Gender-Equity-Dashboard-using-Power-BI/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
+
+#
 
 ## Data Preparation
 Data transformation was performed using Power Query, followed by loading the refined dataset into Microsoft Power BI Desktop for in-depth analysis and reporting.
@@ -91,6 +99,8 @@ The following steps were taking for the data cleaning and transformation  :
 
 * Renaming Column name for clarity
 
+  #
+
 ## Data Visualization
 
 The Diversity and Inclusion dataset was tittled (HR Gender Equity Dashboard) and visualized in three phases using Microsoft Power BI Desktop, resulting in a comprehensive and interactive dashboard:
@@ -132,6 +142,8 @@ The Diversity and Inclusion dataset was tittled (HR Gender Equity Dashboard) and
 
 <img width="676" alt="2024-09-08 (33)" src="https://github.com/user-attachments/assets/c58e8911-aa8a-44dd-8db2-81a7ab9370e4">
 
+#
+
 ## Data Analysis
 
 The following measures were developed to assess the effectiveness of our diversity and inclusion initiatives:
@@ -146,6 +158,8 @@ The following measures were developed to assess the effectiveness of our diversi
 * % Male = DIVIDE([Total male],[Total Employees])+0
 * % Female = DIVIDE([Total Female],[Total Employees])+0
 * % Attrition = DIVIDE( [Total Attrition], [Total Employees])+0
+
+  #
 
 ## Insights
 
@@ -193,6 +207,8 @@ The following measures were developed to assess the effectiveness of our diversi
 - Male employees are being promoted significantly more than female employees, varying by service year, department, job level, and gender.
 
 These insights highlight areas for improvement in gender equity, particularly in promotion opportunities and representation in leadership positions.
+
+#
 
 ## Recommendation
 
