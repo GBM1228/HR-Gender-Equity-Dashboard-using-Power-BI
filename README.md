@@ -203,7 +203,13 @@ The following measures were developed to assess the effectiveness of our diversi
 - 36 employees were promoted, with 8 females and 28 males.
 - Male employees are being promoted significantly more than female employees, varying by service year, department, job level, and gender.
 
-These insights highlight areas for improvement in gender equity, particularly in promotion opportunities and representation in leadership positions.
+These insights highlight areas for improvement in gender equity.
+Key insights revealed:
+1. Employment diversity disparities
+2. Performance diversity gaps
+3. Promotion diversity inequities
+
+Notably, the dataset showed that females are significantly underrepresented.
 
 #
 
