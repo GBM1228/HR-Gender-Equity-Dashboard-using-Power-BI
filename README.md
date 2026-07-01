@@ -30,10 +30,7 @@ As my 4th and final task for the Virtual Internship on Power BI with PwC, offere
 ## Problem Statement
 
 The purpose of this analysis is to:
-
-1.Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
-
-2.Write what you think some root causes of their slow progress might be
+Find what the root causes of the organization slow progress might be.
 
 #
 
@@ -46,7 +43,7 @@ The Dataset used for this analysis was given by [Pwc switzerland](https://www.pw
 #
 
 ## Data Preparation
-Data transformation was performed using Power Query, followed by loading the refined dataset into Microsoft Power BI Desktop for in-depth analysis and reporting.
+Data transformation was performed using Power Query, followed by loading the refined dataset into Microsoft Power BI Desktop for in depth analysis and reporting.
 
 The dataset for diversity and inclusion has 32 columns and 500 rows.
 
